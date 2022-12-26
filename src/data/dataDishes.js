@@ -1,7 +1,7 @@
 const dataDishes = [
     {
     id: 1,
-    price: 25,
+    price: 88,
     img: 'baked-salmon',
     name: 'Baked-Salmon',
     category: 'FISH'
@@ -9,7 +9,7 @@ const dataDishes = [
 
 {
     id: 2,
-    price: 40,
+    price: 30,
     img: 'beef-salad',
     name: 'Beef Salad',
     category: 'SALADS'
@@ -17,7 +17,7 @@ const dataDishes = [
 
 {
     id: 3,
-    price: 15,
+    price: 75,
     img: 'beef-steak',
     name: 'Beef Steak',
     category: 'MEAT'
@@ -26,7 +26,7 @@ const dataDishes = [
 
 {
     id: 4,
-    price: 20,
+    price: 40,
     img: 'chicken',
     name: 'Chicken',
     category: 'MEAT'
@@ -34,7 +34,7 @@ const dataDishes = [
 
 {
     id: 5,
-    price: 15,
+    price: 27,
     img: 'feta',
     name: 'Feta Salad',
     category: 'SALADS'
@@ -42,7 +42,7 @@ const dataDishes = [
 
 {
     id: 6,
-    price: 25,
+    price: 75,
     img: 'fish-poke',
     name: 'Thai Fish Poke',
     category: 'FISH'
@@ -50,7 +50,7 @@ const dataDishes = [
 
 {
     id: 7,
-    price: 20,
+    price: 65,
     img: 'lamb-chops',
     name: 'Lamb Chops',
     category: 'MEAT'
@@ -60,7 +60,7 @@ const dataDishes = [
 
 {
     id: 8,
-    price: 20,
+    price: 15,
     img: 'pumpkin-soup',
     name: 'Pumpkin Soup',
     category: 'SOUPS'
@@ -68,7 +68,7 @@ const dataDishes = [
 
 {
     id: 9,
-    price: 30,
+    price: 90,
     img: 'salmon',
     name: 'Salmon',
     category: 'FISH'
@@ -76,7 +76,7 @@ const dataDishes = [
 
 {
     id: 10,
-    price: 50,
+    price: 38,
     img: 'shrimp-salad',
     name: 'Shrimp',
     category: 'SALADS'
@@ -92,7 +92,7 @@ const dataDishes = [
 
 {
     id: 12,
-    price: 15,
+    price: 22,
     img: 'tomato-salad',
     name: 'Tomato Salad',
     category: 'SALADS'
@@ -100,7 +100,7 @@ const dataDishes = [
 
 {
     id: 13,
-    price: 15,
+    price: 35,
     img: 'tuna-salad',
     name: 'Tuna Salad',
     category: 'SALADS'
@@ -108,7 +108,7 @@ const dataDishes = [
 
 {
     id: 14,
-    price: 15,
+    price: 65,
     img: 'turkey-orange',
     name: 'Turkey Orange',
     category: 'MEAT'
