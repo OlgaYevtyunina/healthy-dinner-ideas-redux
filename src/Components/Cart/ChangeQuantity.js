@@ -15,7 +15,6 @@ const ChangeQuantity = ({quantity, setQuantity}) =>{
             <img onClick={addQuantity} className="dltImg" src={"https://img.icons8.com/ios-glyphs/512/macos-maximize.png"} alt=""/>
             <span>  { quantity } </span>
             <img onClick={removeQuantity} className="dltImg" src={"https://img.icons8.com/ios-glyphs/512/minus.png"} alt=""/>
-            {/* <button className="dltBtn" onClick={removeQuantity}><img className="dltImg" src={"https://img.icons8.com/ios-glyphs/512/minus.png"} alt=""/></button> */}
         </div>
     )
 }
